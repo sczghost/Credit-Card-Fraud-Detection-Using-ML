@@ -1,7 +1,3 @@
-Got it 👍
-Here’s a **README.md** draft you can directly use for your GitHub repository of the **Credit Card Fraud Detection Project**.
-
----
 
 # 💳 Credit Card Fraud Detection using Machine Learning
 
@@ -107,10 +103,4 @@ python fraud_detection.py
 
 This project was developed as part of the **MBA Final Project** at **Birla Institute of Technology, Mesra (Noida Campus)** under the guidance of *Mrs. Pramila Joshi*.
 
----
 
-✨ *If you like this project, don’t forget to ⭐ star the repo!*
-
----
-
-Do you also want me to **write a `requirements.txt` file** for your GitHub repo so it’s fully ready to run?
